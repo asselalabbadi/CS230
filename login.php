@@ -1,5 +1,5 @@
 <?php
-require 'inludes/header.php';
+require 'includes/header.php';
 ?>
 
 <main>
